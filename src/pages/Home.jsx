@@ -30,7 +30,7 @@ const Home = () => {
               <div className="w-10 h-10 sm:w-12 sm:h-12 bg-gradient-to-br from-primary to-secondary rounded-2xl flex items-center justify-center shadow-soft">
                 <ApperIcon name="CheckSquare" className="h-5 w-5 sm:h-6 sm:w-6 text-white" />
               </div>
-              <h1 className="text-2xl sm:text-3xl font-bold text-gradient">TaskFlow 3</h1>
+              <h1 className="text-2xl sm:text-3xl font-bold text-gradient">TaskFlow 4</h1>
             </motion.div>
 
             {/* Navigation */}
